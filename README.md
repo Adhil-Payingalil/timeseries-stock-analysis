@@ -4,7 +4,7 @@
 
 This project performs time series analysis and forecasting on adjusted closing stock prices using various models (ARIMA, ETS, LSTM, Prophet). It includes Exploratory Data Analysis (EDA), time series decomposition, model training, evaluation, and an interactive Streamlit web application for visualization and user interaction.
 
-**Portfolio Link:** [https://lapis-school-f5e.notion.site/Stock-Price-Time-Series-Forecasting-1e4ca101e46980ecadd0c80f0c1fff64?pvs=4]
+**Project Doc:** [https://lapis-school-f5e.notion.site/Stock-Price-Time-Series-Forecasting-1e4ca101e46980ecadd0c80f0c1fff64?pvs=4]
 
 ## Features
 
